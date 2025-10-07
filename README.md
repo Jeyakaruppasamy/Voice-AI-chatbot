@@ -64,6 +64,7 @@ pip install pyaudio
 Windows:
 bashpip install pipwin
 pipwin install pyaudio
+pip install streamlit speechrecognition gtts pyaudio
 💻 Usage
 Running the Application
 bashstreamlit run app.py
